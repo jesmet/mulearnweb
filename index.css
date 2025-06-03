@@ -6,6 +6,8 @@
 
 .sender-column {
   text-align: right;
+  float: right;
+  width: 50%;
 }
 
 h1 {
